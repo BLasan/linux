@@ -24,7 +24,7 @@ within each of these updates is tunable and described as the "slice".
 
 Management
 ----------
-Quota and period are managed within the cpu subsystem via cgroupfs.
+Quota and period are managed within the cpu subsystem via cgroups.
 
 .. note::
    The cgroupfs files described in this section are only applicable
